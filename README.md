@@ -22,25 +22,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-<!-- Projects Section -->
-<!-- 
-<h2 align="center">🚀 Projects</h2>
-<p align="center">
-  <a href="link-to-project-1">
-    <img src="url-to-project-1-image" alt="Project 1" width="150" height="150">
-  </a>
-  <a href="link-to-project-2">
-    <img src="url-to-project-2-image" alt="Project 2" width="150" height="150">
-  </a>
-</p>
--->
-
-<!-- Current Focus Section -->
-<!-- 
-<h2 align="center">🌱 Current Focus</h2>
-<p align="center">Exploring new technologies and deepening my knowledge in [specific area or technology].</p>
--->
-
 <!-- Let's Connect Section -->
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
