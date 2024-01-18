@@ -22,6 +22,16 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
+## My Resume
+
+You can find my latest resume in PDF format on [Google Drive](link_to_google_drive) or [GitHub](link_to_github).
+
+### Download
+
+- [Download PDF from Google Drive](link_to_google_drive_download)
+- [Download PDF from GitHub](https://github.com/monircse021/monircse021/blob/main/CV_MD_MANIRUL_ISLAM.pdf)
+
+
 <!-- Let's Connect Section -->
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
