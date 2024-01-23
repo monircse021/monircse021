@@ -4,9 +4,7 @@
 <!-- Introduction Section -->
 <p align="center">Results-driven Java Expert with over 10+ years of experience in designing and implementing
 high-performance, scalable, and innovative software solutions. Proven ability to lead
-development teams, foster collaboration, and deliver projects on time and within budget.
-Expertise in Java, Spring Boot, REST API, OAuth2, JWT, AWS, Keycloak, JWT, Redis, RDBMS, and
-MongoDB.</p>
+development teams, foster collaboration, and deliver projects on time and within budget.</p>
 
 <!-- Technologies & Tools Section -->
 <h2 align="center">🔧 Technologies & Tools</h2>
