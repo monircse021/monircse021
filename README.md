@@ -29,7 +29,8 @@ You can find my latest resume in PDF format on [Google Drive](link_to_google_dri
 ### Download
 
 - [Download PDF from Google Drive](link_to_google_drive_download)
-- [Download PDF from GitHub](https://github.com/monircse021/monircse021/blob/main/CV_MD_MANIRUL_ISLAM.pdf)
+- <a href="https://github.com/monircse021/monircse021/raw/main/CV_MD_MANIRUL_ISLAM.pdf" download>Download PDF from GitHub</a>
+
 
 
 <!-- Let's Connect Section -->
